@@ -50,7 +50,7 @@ class Keyboards
         "code" => "sg-latin1",
         "suggested_for_lang" => ["de_CH"]
       },
-      { "description" => _("German (Neo 2)"),
+      { "description" => _("German") + " (Neo 2)",
         "alias" => "german-neo",
         "code" => "de-neo"
       },
